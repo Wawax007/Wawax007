@@ -1,12 +1,8 @@
 <div align="center">
 
-# 🕴️ Agent Wawax007
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=190&section=header&text=Agent%20Wawax007&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Licence%20to%20compile&descAlignY=72&descSize=18)
 
-### *« The name's Wawax. Wawax007. »*
-
-**Dev · AI · Cyber · Reverse Engineering · Modding**
-
-*Licence to compile.*
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+name's+Wawax.+Wawax007.;Dev+%C2%B7+AI+%C2%B7+Cyber+%C2%B7+Reverse+%C2%B7+Modding;Some+people+finish+games.;I+finish+file+formats.&font=Fira+Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1000&size=22)](https://github.com/Wawax007)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Wawax007&color=blueviolet&style=flat-square&label=SURVEILLANCE+FEED)
 
@@ -16,11 +12,17 @@
 
 ## 🗂️ CLASSIFIED — Field Agent Dossier
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Surveillance footage: agent at his workstation" title="Surveillance footage — 3 AM, colorized"/>
+
 > **Codename:** Wawax007
 > **Status:** Active — last seen inside a hex editor at 3 AM
 > **Cover identity:** Perfectly normal developer
 > **Actual activity:** Opening game binaries "just to see how it works"
 > **Threat level:** Directly proportional to remaining coffee supply ☕
+
+*→ Actual surveillance footage of the agent. Note the regulation headphones and the second monitor full of hexdumps.*
+
+<br clear="right"/>
 
 I like too many things and refuse to choose. So instead of picking one skill tree, I run five in parallel and complain about respec costs:
 
@@ -80,12 +82,27 @@ class Wawax007:
 
 ---
 
-## 📊 Mission statistics
+## 📊 Mission statistics — what HQ sees
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wawax007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wawax007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wawax007&theme=tokyonight" alt="Profile details" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=Wawax007&theme=tokyonight&hide_border=true" alt="Contribution streak" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wawax007&theme=tokyonight" alt="Repos per language" height="180"/>
+
+</div>
+
+### 🐍 Field operative consuming the evidence
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wawax007/Wawax007/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Wawax007/Wawax007/output/github-snake.svg">
+</picture>
+
+*The snake is eating my contributions. Don't worry — it has clearance.*
 
 </div>
 
@@ -116,5 +133,7 @@ A: XOR with a hardcoded key. Not because it's good — because it keeps giving m
 *It won't. It's markdown. But it sounded cool.*
 
 **🍸 Shaken, not `sudo`-ed.**
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer)
 
 </div>
