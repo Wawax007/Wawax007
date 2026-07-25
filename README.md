@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,55:1a1a1a,100:8B0000&height=190&section=header&text=AGENT%20WAWAX007&fontSize=46&fontColor=D4AF37&animation=fadeIn&desc=TOP%20SECRET%20%2F%2F%20FOR%20YOUR%20EYES%20ONLY&descAlignY=74&descSize=16)
+![Header](assets/header.svg)
 
-![Gun barrel](assets/gunbarrel.svg)
+<img src="assets/gunbarrel.svg" width="190" alt="Gun barrel"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=The+name's+Wawax.+Wawax007.;Licence+to+compile.;Dev+%C2%B7+AI+%C2%B7+Cyber+%C2%B7+Reverse+%C2%B7+Modding;Some+people+finish+games.;I+finish+file+formats.&font=Special+Elite&center=true&width=520&height=50&color=D4AF37&vCenter=true&pause=1200&size=21)](https://github.com/Wawax007)
 
@@ -152,6 +152,6 @@ A: `sudo`-ed.
 ### 🍸 WAWAX007 WILL RETURN
 #### *(in his next commit)*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,45:1a1a1a,100:000000&height=120&section=footer)
+![Footer](assets/footer.svg)
 
 </div>

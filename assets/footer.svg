@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="900" height="70">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5C0000"/>
+      <stop offset="0.45" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#000000"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="70" rx="12" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="68" rx="11" fill="none" stroke="#D4AF37" stroke-width="1.5" opacity="0.35"/>
+  <text x="450" y="43" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#c9a227" letter-spacing="5" opacity="0.9">// END OF FILE — CLEARANCE REVOKED //</text>
+</svg>
