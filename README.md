@@ -25,15 +25,17 @@
 > **Real name:** ███████ ██████
 > **Location:** Grid ██-██, somewhere with good coffee
 > **Status:** Active — last seen inside a hex editor at 3 AM
-> **Cover identity:** Perfectly normal developer
-> **Actual activity:** Opening game binaries "just to see how it works"
+> **Official cover:** Fullstack web developer — 3 years of professional field service
+> **Training:** Master's in Game Programming (software engineering) — Q Branch certified
+> **Off-duty activity:** Opening game binaries "just to see how it works"
 > **Threat level:** Directly proportional to remaining coffee supply ☕
 
-The subject likes too many things and refuses to choose. Instead of picking one skill tree, he runs five in parallel and complains about respec costs:
+By day, the subject ships web apps like a respectable professional. By night, he refuses to pick one skill tree and runs them all in parallel — strictly out of passion:
 
 | Clearance 🎩 | Official version | Field observations |
 |---|---|---|
-| 💻 **Dev** | Building software | 20% writing code, 80% renaming variables |
+| 🌐 **Fullstack Web** | The day job — 3 years pro | Frontend, backend, and the 47 config files in between |
+| 🎓 **Game Programming** | Master's degree, software engineer | Studied making games. Now takes them apart. Full circle. |
 | 🧠 **AI** | Machine learning & LLMs | Politely asking matrices to hallucinate less |
 | 🛡️ **Cyber** | Offensive & defensive security | "It's not a bug, it's an undocumented entry point" |
 | 🔬 **Reverse** | Binary analysis | Ghidra, hexdumps, and an emotionally unhealthy relationship with XOR |
@@ -57,7 +59,6 @@ Nominative determinism is real, and it has a hex editor.
 
 Other files on the desk:
 - 🐱 **[MewgenicsRenamer](https://github.com/Wawax007/MewgenicsRenamer)** — rename every cat in Mewgenics, because power.
-- 🎮 **[007-firstlight-toolkit](https://github.com/Wawax007/007-firstlight-toolkit)** — the full modding toolkit for *007 First Light*.
 - 🧪 Various experiments that are *totally* going to be finished one day.
 
 ---
@@ -122,7 +123,10 @@ class Wawax007:
 
 ## ❓ INTERROGATION TRANSCRIPT
 
-**Q: Dev, AI, cyber, reverse, modding… can you actually focus on one thing?**
+**Q: What do you actually do for a living?**
+A: Fullstack web development. The tuxedo is for weekends.
+
+**Q: Web, AI, cyber, reverse, modding… can you actually focus on one thing?**
 A: No. Next question.
 
 **Q: Why reverse-engineer a game instead of just playing it?**
